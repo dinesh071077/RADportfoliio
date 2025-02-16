@@ -19,7 +19,7 @@ function About() {
         <p><span>SEPIC CONVERTER</span>- This project work presents a novel split inductor high-gain 
              Single Ended Primary Inductor Converter (SEPIC) topology designed for renewable energy applications.
             By employing a split inductor configuration, the converter achieves significantly higher  voltage gain </p>
-            <p><span>PYTHON FRONTEND PROJECT</span>- GYM WEBPAGE DEVELOPEMENT <a href='https://projectgym-beta.vercel.app/'> click the link</a></p>
+            <p><span>PYTHON FRONTEND PROJECT</span>- GYM WEBPAGE DEVELOPEMENT <a href='https://gymwebpage.vercel.app/'> click the link</a></p>
         {/* <button> READ MORE</button> */}
     </div>
 </div>
